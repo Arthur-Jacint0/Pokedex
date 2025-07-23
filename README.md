@@ -12,7 +12,7 @@ Com ele, você pode buscar informações de qualquer Pokémon usando **nome ou n
 
 ## 🛠️ Tecnologias utilizadas
 
-- [Python 3.x](https://www.python.org/)
+- [Python](https://www.python.org/)
 - [Streamlit](https://streamlit.io/)
 - [Requests](https://pypi.org/project/requests/)
 - [Pandas](https://pandas.pydata.org/)
